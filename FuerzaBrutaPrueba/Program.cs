@@ -56,6 +56,11 @@ class Program
         int numThreads;
         do
         {
+            /*
+             En mi caso el numero de hilos optimo es de 12, este numero depende del numero de nucleos de tu ordenador 
+             y sus procesadores logicos (10 nucleos y 12 procesadores logicos en mi caso)
+             */
+            
             Console.Write("Ingrese el número de hilos a usar: ");
             string input = Console.ReadLine();
 
