@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dani0\\RiderProjects\\ConsoleApp1\\FuerzaBrutaPrueba\\FuerzaBrutaPrueba.csproj": {}
+    "C:\\Users\\dani0\\Documents\\GitHub\\FuerzaBrutaPassword\\FuerzaBrutaPrueba\\FuerzaBrutaPrueba.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dani0\\RiderProjects\\ConsoleApp1\\FuerzaBrutaPrueba\\FuerzaBrutaPrueba.csproj": {
+    "C:\\Users\\dani0\\Documents\\GitHub\\FuerzaBrutaPassword\\FuerzaBrutaPrueba\\FuerzaBrutaPrueba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dani0\\RiderProjects\\ConsoleApp1\\FuerzaBrutaPrueba\\FuerzaBrutaPrueba.csproj",
+        "projectUniqueName": "C:\\Users\\dani0\\Documents\\GitHub\\FuerzaBrutaPassword\\FuerzaBrutaPrueba\\FuerzaBrutaPrueba.csproj",
         "projectName": "FuerzaBrutaPrueba",
-        "projectPath": "C:\\Users\\dani0\\RiderProjects\\ConsoleApp1\\FuerzaBrutaPrueba\\FuerzaBrutaPrueba.csproj",
+        "projectPath": "C:\\Users\\dani0\\Documents\\GitHub\\FuerzaBrutaPassword\\FuerzaBrutaPrueba\\FuerzaBrutaPrueba.csproj",
         "packagesPath": "C:\\Users\\dani0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dani0\\RiderProjects\\ConsoleApp1\\FuerzaBrutaPrueba\\obj\\",
+        "outputPath": "C:\\Users\\dani0\\Documents\\GitHub\\FuerzaBrutaPassword\\FuerzaBrutaPrueba\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
